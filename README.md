@@ -1,1 +1,5 @@
-# cs2-config
+<div align="center">
+
+
+
+# CS2 Конфиг grafingl
